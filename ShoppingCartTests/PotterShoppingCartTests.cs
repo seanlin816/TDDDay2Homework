@@ -10,7 +10,7 @@ namespace ShoppingCart.Tests
     public class PotterShoppingCartTests
     {
         [TestMethod()]
-        public void AddToCardTest_vol1_1_total_should_be_1000()
+        public void AddToCardTest_vol1_1_total_should_be_100()
         {
             // Arrange
             PotterBook vol1 = new PotterBook { Volumn = 1 };

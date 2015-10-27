@@ -21,7 +21,7 @@ namespace ShoppingCart.Tests
                     discountRate = 1;
                     break;
                 case 2:
-                    discountRate = 0.95;
+                    discountRate = 0.98;
                     break;
                 case 3:
                     discountRate = 0.9;
